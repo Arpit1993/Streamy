@@ -1,0 +1,15 @@
+{
+  "streams": [
+    {
+      "title": "My Streams",
+      "description": "This is a good stream",
+      "id": 1
+    },
+    {
+      "title": "Programmatic Navigation",
+      "description": "This is a programmtic navigation page",
+      "userId": "101507162311910140106",
+      "id": 3
+    }
+  ]
+}
